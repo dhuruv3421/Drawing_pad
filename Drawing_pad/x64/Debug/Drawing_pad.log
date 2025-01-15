@@ -1,0 +1,9 @@
+﻿  DrawingPad.cpp
+C:\Users\Thaku\OneDrive\Desktop\Project\Custom_Drawing_Pad\Drawing_pad\Drawing_pad\DrawingPad.cpp(39,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Thaku\OneDrive\Desktop\Project\Custom_Drawing_Pad\Drawing_pad\Drawing_pad\DrawingPad.cpp(68,36): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Thaku\OneDrive\Desktop\Project\Custom_Drawing_Pad\Drawing_pad\Drawing_pad\DrawingPad.cpp(68,26): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Thaku\OneDrive\Desktop\Project\Custom_Drawing_Pad\Drawing_pad\Drawing_pad\DrawingPad.cpp(79,42): warning C4244: 'argument': conversion from 'const double' to 'GLint', possible loss of data
+C:\Users\Thaku\OneDrive\Desktop\Project\Custom_Drawing_Pad\Drawing_pad\Drawing_pad\DrawingPad.cpp(79,29): warning C4244: 'argument': conversion from 'const double' to 'GLint', possible loss of data
+C:\Users\Thaku\OneDrive\Desktop\Project\Custom_Drawing_Pad\Drawing_pad\Drawing_pad\DrawingPad.cpp(90,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thaku\OneDrive\Desktop\Project\Custom_Drawing_Pad\Drawing_pad\Drawing_pad\DrawingPad.cpp(90,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Drawing_pad.vcxproj -> C:\Users\Thaku\OneDrive\Desktop\Project\Custom_Drawing_Pad\Drawing_pad\x64\Debug\Drawing_pad.exe
